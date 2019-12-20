@@ -3,6 +3,7 @@
 
 
 ## Features
+地址 https://www.cnblogs.com/woshimrf/p/spring-security-token-server.html
 
 - [x] 用户密码api登陆，登陆成功返回token
 - [x] 携带token访问服务，可以鉴定权限
